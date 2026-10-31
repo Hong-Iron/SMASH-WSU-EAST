@@ -1,0 +1,89 @@
+{
+  "code": "WSU-EAST",
+  "title": "SMASH WSU EAST",
+  "school": "우송대",
+  "fullName": "우송대학교",
+  "campusName": "우송대학교 동캠퍼스",
+  "tagline": "우송대를 부셔 (시험기간 스트레스 해소)",
+  "description": "우송대학교 동캠퍼스를 3D로 부수고 지구 중심까지 파 내려가는 스트레스 해소 게임",
+  "ogAlt": "폭탄이 터지며 무너지는 우송대학교 동캠퍼스 3D 화면과 SMASH WSU EAST 제목",
+  "url": "https://hong-iron.github.io/SMASH-WSU-EAST/",
+  "antipode": "우루과이 앞바다(남대서양)",
+  "osm": {
+    "type": "way",
+    "id": 30659559
+  },
+  "styles": {},
+  "supportKakao": "https://qr.kakaopay.com/FKcOJKyOy1f405462",
+  "supportToss": "supertoss://send?amount=1000&bank=%ED%86%A0%EC%8A%A4%EB%B1%85%ED%81%AC&accountNo=100123297463&origin=qr",
+  "hub": "https://hong-iron.github.io/SMASH/",
+  "kakaoKey": "ff20552a5a51bc1fe0e0ecdecd217f35",
+  "goatcounter": "https://sassafras.goatcounter.com/count",
+  "supabaseUrl": "https://qohxhopinnwrzrgxrdvj.supabase.co",
+  "supabaseKey": "sb_publishable_9RcuLHwCWIpdzjqDvXMtIA_kicFhQ8g",
+  "exclude": [
+    {
+      "at": [
+        36.3352518,
+        127.4529247
+      ],
+      "n": "우송대출장소우체국",
+      "why": "항공사진에 없음 — 우체국 출장소로 등록된 자리를 항공사진으로 보면 정원 잔디와 산책로만 있고 지붕이 없어서 뺀다."
+    },
+    {
+      "at": [
+        36.335837,
+        127.4530775
+      ],
+      "n": "우송정보대학동캠퍼스",
+      "why": "항공사진에 없음 — 운동장 남쪽 나무 줄과 풀밭 비탈에 그려진 등록 자료일 뿐이고, 사진에는 건물이 하나도 없어서 뺀다."
+    },
+    {
+      "at": [
+        36.3336811,
+        127.4526168
+      ],
+      "n": "우송정보대학동캠퍼스",
+      "why": "항공사진에 없음 — 캠퍼스 남쪽 끝 숲 한가운데에 그려진 자리로, 사진에 나무만 빽빽하고 건물이 없어서 뺀다."
+    }
+  ],
+  "look": {
+    "[E1] 테크노디자인센터": {
+      "style": "brick",
+      "wall": "#86605a",
+      "glass": "#2f3a44",
+      "frame": "#3a3336"
+    },
+    "[E2] 국제경영센터": {
+      "style": "brick",
+      "wall": "#86605a",
+      "glass": "#2f3a44",
+      "frame": "#3a3336"
+    },
+    "[E3] 학술정보관": {
+      "style": "brick",
+      "wall": "#86605a",
+      "glass": "#344753",
+      "frame": "#3a3336"
+    },
+    "[E4] 구 대학본부": {
+      "style": "stone",
+      "wall": "#bdb6b4",
+      "glass": "#4a5a66",
+      "frame": "#3d403e"
+    },
+    "[E5] 체육관(동캠)": {
+      "style": "stone",
+      "wall": "#d6d0c4",
+      "glass": "#4a4e52",
+      "frame": "#a19c96"
+    },
+    "자립관 외 기숙사, 학생회관 등": {
+      "style": "dorm",
+      "wall": "#7a5650",
+      "glass": "#3a3e44",
+      "frame": "#e0ddd6"
+    }
+  },
+  "lookSource": "학교 공식 캠퍼스맵·건물 안내 사진과 위키미디어 공용 사진의 색만 참고. 사진 픽셀은 쓰지 않음"
+}
