@@ -1,0 +1,34 @@
+{
+ "region": "대전 동구 자양동",
+ "nameEn": "Woosong University East Campus",
+ "added": "2026-11-01T02:27",
+ "rank": 278,
+ "total": 337,
+ "nearby": [
+  {
+   "code": "DJU",
+   "campus": "대전대학교",
+   "km": 0.6
+  },
+  {
+   "code": "WSU",
+   "campus": "우송대학교 서캠퍼스",
+   "km": 0.7
+  },
+  {
+   "code": "HIT",
+   "campus": "대전보건대학교",
+   "km": 1.6
+  },
+  {
+   "code": "HNU",
+   "campus": "한남대학교",
+   "km": 3.4
+  },
+  {
+   "code": "CNU-BOWOON",
+   "campus": "충남대학교 보운캠퍼스",
+   "km": 4.2
+  }
+ ]
+}
